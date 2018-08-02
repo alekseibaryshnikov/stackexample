@@ -1,0 +1,10 @@
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\StackExample.deps.json
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\StackExample.runtimeconfig.json
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\StackExample.runtimeconfig.dev.json
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\StackExample.dll
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\StackExample.pdb
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\StackExample.csproj.CoreCompileInputs.cache
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\StackExample.AssemblyInfoInputs.cache
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\StackExample.AssemblyInfo.cs
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\StackExample.dll
+C:\Users\l0gin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\StackExample.pdb
